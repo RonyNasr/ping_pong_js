@@ -1,0 +1,23 @@
+{
+  "name": "ping_pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rony Nasr <nasr.rony@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/RonyNasr/ping_pong_js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.14.1"
+  }
+}
